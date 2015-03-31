@@ -1,0 +1,24 @@
+{
+  "name": "ng-countUp.js",
+  "version": "0.0.0",
+  "authors": [
+    "anderskristo <anderskristo@gmail.com>"
+  ],
+  "description": "AngularJS directive which wraps countUp.js",
+  "main": "ngCountUp.js",
+  "keywords": [
+    "angular",
+    "directive",
+    "countUp.js",
+    "count"
+  ],
+  "license": "MIT",
+  "homepage": "http://anderskristo.me",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
