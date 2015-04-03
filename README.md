@@ -3,6 +3,8 @@ ng-countUp.js
 
 ng-countUp.js is a AngularJS directive which wraps [countUp.js](https://github.com/inorganik/countUp.js)
 
+In action: [http://anderskristo.me/ng-countUp.js](http://anderskristo.me/ng-countUp.js)
+
 ### Install:
 ```
 bower install ng-countUp.js --save
