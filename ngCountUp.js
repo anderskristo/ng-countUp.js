@@ -1,5 +1,5 @@
 angular.module('ngCountUp', []).
-  directive('ngCountUp', function($timeout) {
+  directive('ngCountUp', ['$timeout', function($timeout) {
 
     var linker = function ($scope, element, attrs) {
       var elem = element[0];
