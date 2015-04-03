@@ -243,3 +243,14 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+
+.ng-count-up {
+  margin-top: 25px;
+}
+.ng-count-up ng-count-up {
+  display: inline-block;
+  padding: 0 20px;
+  width: 120px;
+  font-size: 30px;
+  font-weight: thin;
+}
