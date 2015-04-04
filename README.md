@@ -41,5 +41,3 @@ $scope.options = {
   suffix : ''
 };
 ```
--
-Tested in AngularJS v1.3.3
